@@ -1,6 +1,6 @@
 {
   "name": "@lyj-imooc-cli-dev/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "utils",
   "author": "李亚军 <dreamoflu@163.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Run testing from utils\""
   },
-  "gitHead": "4f8842cb6d94a20f872dead4344e0e6b7d514bec"
+  "gitHead": "52f351c21fc09805d6c804ecad3d555a8cf745d6"
 }

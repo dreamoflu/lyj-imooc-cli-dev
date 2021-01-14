@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log('hello imooc')
+console.log('hello imooc 测试')
