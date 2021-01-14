@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "lyj-imooc-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,5 +21,6 @@
   },
   "dependencies": {
     "@lyj-imooc-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "4f8842cb6d94a20f872dead4344e0e6b7d514bec"
 }
