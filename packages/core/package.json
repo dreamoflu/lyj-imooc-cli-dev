@@ -1,6 +1,6 @@
 {
   "name": "@lyj-imooc-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "core",
   "author": "李亚军 <dreamoflu@163.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "dependencies": {
     "@lyj-imooc-cli-dev/utils": "^1.0.3"
   },
-  "gitHead": "52f351c21fc09805d6c804ecad3d555a8cf745d6"
+  "gitHead": "f29bb7d3f1f2781c6afcc4cbed21f75c8c7b397c"
 }
