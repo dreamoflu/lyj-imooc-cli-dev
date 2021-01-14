@@ -1,6 +1,6 @@
 {
   "name": "@lyj-imooc-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "core",
   "author": "李亚军 <dreamoflu@163.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@lyj-imooc-cli-dev/utils": "^1.0.1"
+    "@lyj-imooc-cli-dev/utils": "^1.0.2"
   }
 }
